@@ -51,7 +51,7 @@ Grad-CAM (Gradient-weighted Class Activation Mapping) is used to make the model'
     ```
 
 3.  **Download the Dataset:**
-    This project uses the [Forest Fire Classifier Dataset](https://www.kaggle.com/datasets/google-brain/forest-fire-detection-from-satellite-images). Download the dataset and structure it as follows:
+    This project uses the [Forest Fire Classifier Dataset]([https://www.kaggle.com/datasets/google-brain/forest-fire-detection-from-satellite-images](https://www.kaggle.com/datasets/azimjaan21/fire-and-smoke-dataset-object-detection-yolo)). Download the dataset and structure it as follows:
     ```
     .
     ├── data/
